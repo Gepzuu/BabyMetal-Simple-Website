@@ -1,0 +1,36 @@
+﻿body {
+
+}
+body {
+    background-color: #800000;
+}
+h1 {
+    color: #FFFFFF;
+    line-height: 23px;
+    text-align: justify;
+    letter-spacing: 2px;
+    font-family: "Rockwell Extra Bold";
+    font-weight: bold;
+}
+h2 {
+  
+    color: #FFFFFF;
+    word-spacing: 36px;
+    text-align: justify;
+}
+
+.Myclass {
+    border: thin dotted #FFFFFF;
+    color: #CCCC00;
+}
+
+.auto-style5{
+    border-radius:30px;
+}
+.myc {
+    color: #CCCC00;
+}
+
+.auto-style7 {
+    word-spacing: 30px;
+}
